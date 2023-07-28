@@ -7,4 +7,6 @@
 
    Command prompt must be re-open after these commands were set in. To verify that the Environment Variable has been set, type: "java -version" (without quotes).
 
-2. The JOptionPane unfortunately doesn't have an icon visible on the taskbar. In case if program gets invisible, simply alt+tab to find it.
+2. Program can be launched by either opening QuizProgram.jar or QuizProgram.exe
+
+3. The JOptionPane unfortunately doesn't have an icon visible on the taskbar. In case if program gets invisible, simply alt+tab to find it.
